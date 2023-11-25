@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:21
 
 RUN groupadd -r app && useradd -r -g app -d /usr/src/app app
 
