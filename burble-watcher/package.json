@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "kafkajs": "^2.2.4",
-    "puppeteer": "^20.2.1"
+    "puppeteer": "^22.12.0"
   }
 }
