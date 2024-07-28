@@ -14,7 +14,7 @@ services:
       - 8081:8080
 
   zookeeper:
-    image: confluentinc/cp-zookeeper:7.6.1
+    image: confluentinc/cp-zookeeper:7.7.0
     container_name: zookeeper
     environment:
       ZOOKEEPER_CLIENT_PORT: 2181
